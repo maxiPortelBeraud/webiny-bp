@@ -26,22 +26,6 @@ Pasos a hacer:
 - yarn install
 
 - crear archivo .env
-con este contenido:
----------------------------------------------------------------------------------------
-# The region into which your project will be deployed.
-AWS_REGION=sa-east-1
-
-# Set secrets provider.
-# See https://www.pulumi.com/docs/intro/concepts/secrets/#changing-the-secrets-provider-for-a-stack.
-PULUMI_SECRETS_PROVIDER=passphrase
-
-# Used with "passphrase" secrets provider.
-# See https://www.pulumi.com/docs/reference/cli/environment-variables/.
-PULUMI_CONFIG_PASSPHRASE=4ba14c8cfaf1d593a3c7875e43d85d63
-
-# Enable debugging mode.
-DEBUG=true
-
 
 ---------------------------------------------------------------------------------------
 
