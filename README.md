@@ -52,7 +52,7 @@ https://www.webiny.com/docs/infrastructure/aws/configure-aws-credentials
 
 -Alternativamente, también puede definir una política detallada utilizando nuestra plantilla de CloudFormation  que creará un grupo de usuarios  con todas las políticas necesarias para su proyecto
 
-- La creación del recurso tardará unos minutos. Después de completar, verá los registros con CREATE_COMPLETE
+La creación del recurso tardará unos minutos. Después de completar, verá los registros con CREATE_COMPLETE
 
 -------------------------------------------------------------------------------------------------------------------
 
