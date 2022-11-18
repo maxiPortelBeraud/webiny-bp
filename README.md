@@ -4,7 +4,10 @@ boilerplate webiny
 
 Requisitos
 
-Instalar Node>14 - yarn 1.22.0 || >= 2 - Cuenta AWS y Credenciales de usuario
+- Instalar Node>14 
+- yarn 1.22.0 || >= 2 
+- Cuenta AWS y Credenciales de usuario
+- El proceso de instalación requiere 4GB de ram
 
 ----------------------------------------
 
