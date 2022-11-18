@@ -42,13 +42,13 @@ https://www.webiny.com/docs/infrastructure/aws/configure-aws-credentials
 
 -Aquí ingresa a un proceso de 5 pasos, y el primer paso es crear un nombre de usuario para las credenciales
 - Elija el nombre de usuario y seleccione la casilla de verificación Acceso programático antes de pasar al siguiente paso.
--En el siguiente paso, defina el nivel de acceso para el nuevo usuario. Seleccione 'Adjuntar políticas existentes' de las tres opciones disponibles. Luego seleccione la política 'AdministratorAccess' marcando la casilla de verificación junto a ella. Cuando esté listo, haga clic en el botón Siguiente
+- En el siguiente paso, defina el nivel de acceso para el nuevo usuario. Seleccione 'Adjuntar políticas existentes' de las tres opciones disponibles. Luego seleccione la política 'AdministratorAccess' marcando la casilla de verificación junto a ella. Cuando esté listo, haga clic en el botón Siguiente
 
--En caso de que no desee agregar ninguna etiqueta a su nuevo usuario, puede omitir este paso y hacer clic en el botón Siguiente
+- En caso de que no desee agregar ninguna etiqueta a su nuevo usuario, puede omitir este paso y hacer clic en el botón Siguiente
 
--Después de completar todos los pasos, verá una página a Revisar. Si todo es correcto, haga clic en el botón Crear usuario.
+- Después de completar todos los pasos, verá una página a Revisar. Si todo es correcto, haga clic en el botón Crear usuario.
 
--Por último, recibirá un mensaje de éxito con su ID de clave de acceso y clave de acceso secreta. Debe copiar estas cadenas y mantenerlas seguras, ya que las necesita para el siguiente paso.   **Una vez que salga de esta pantalla, ya no podrá ver las credenciales. Si los pierde, deberá eliminar el usuario y crear uno nuevo.***
+- Por último, recibirá un mensaje de éxito con su ID de clave de acceso y clave de acceso secreta. Debe copiar estas cadenas y mantenerlas seguras, ya que las necesita para el siguiente paso.   **Una vez que salga de esta pantalla, ya no podrá ver las credenciales. Si los pierde, deberá eliminar el usuario y crear uno nuevo.***
 
 -Alternativamente, también puede definir una política detallada utilizando nuestra plantilla de CloudFormation  que creará un grupo de usuarios  con todas las políticas necesarias para su proyecto
 
