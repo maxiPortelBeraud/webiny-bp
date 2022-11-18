@@ -77,4 +77,4 @@ La palabra default dentro de los corchetes es el nombre de tu perfil. Si no conf
 
 
 
-#- yarn webiny deploy
+- Ultimo paso: Ejecute "yarn webiny deploy"
