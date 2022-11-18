@@ -27,7 +27,7 @@ Pasos a hacer:
 
 - crear archivo .env
 con este contenido:
-__________________________________________________________________
+---------------------------------------------------------------------------------------
 # The region into which your project will be deployed.
 AWS_REGION=sa-east-1
 
@@ -41,7 +41,7 @@ PULUMI_CONFIG_PASSPHRASE=4ba14c8cfaf1d593a3c7875e43d85d63
 
 # Enable debugging mode.
 DEBUG=true
-__________________________________________________________________
+
 
 ---------------------------------------------------------------------------------------
 
