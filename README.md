@@ -58,7 +58,8 @@ https://www.webiny.com/docs/infrastructure/aws/configure-aws-credentials
 
 #Ahora que tiene el ID de la clave de acceso y la clave de acceso secreta, es hora de almacenarlos en su máquina de desarrollo.
 
-- Configuración de Windows
+- Configuración de Windows:
+
 En máquinas con Windows, vaya a su carpeta de usuario. Eso es C:\Users\USERNAME\(reemplace USERNAMEcon su nombre de usuario real). Dentro crea una nueva carpeta llamada .aws, y dentro de la .awscarpeta crea un archivo llamado credentials. La ruta completa debería ser así: C:\Users\USERNAME\.aws\credentials.
 
 Ahora que tenemos nuestro credentialsarchivo, edítelo y complételo así:
