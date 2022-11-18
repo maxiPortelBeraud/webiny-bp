@@ -64,13 +64,13 @@ En máquinas con Windows, vaya a su carpeta de usuario. Eso es C:\Users\USERNAME
 
 Ahora que tenemos nuestro credentialsarchivo, edítelo y complételo así:
 
-
+__________________________________________________________
 [default]
 
 aws_access_key_id = PEGUE_LLAVE_ID_DE_ACCESO_AQUI
 
 aws_secret_access_key = PEGUE_LLAVE_DE_ACCESO_SECRETA_AQUI
-
+__________________________________________________________
 
 
 La palabra default dentro de los corchetes es el nombre de tu perfil. Si no configura explícitamente un nombre de perfil, AWS CLI y SDK utilizan el perfil.
